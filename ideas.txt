@@ -1,0 +1,23 @@
+I love: Books, Long Boarding, Video Games, Board Games, Minimalism. 
+
+People need ideas. People need to have something already or be given something by the website before they can do anything. They don't think of things. They follow what's on the screen. 
+
+Choosing from categories would be helpful for people. 
+
+1. Blossom. 
+Plant Tracking Info for someone's personal plants. Maybe with people's ratings of cost vs difficulty for taking care of plants. 
+
+2. Bookreaper. 
+Helping people get rid of too many books. Books owned, and wanted to get rid of. 
+
+3. Minimalade. 
+Minimal Aid. How to be a minimalist app with a lemonade theme. Input information and it'll help you choose what to get rid of. 
+
+4. Goald-Days
+(Goal + Gold... not my best work) Website that you set goals for yourself for different days and it emails you goals for that day. Maybe some sort of reward system or something. I'd have to set up packages for people or something. The emails would be difficult. 
+
+5. Gechur. 
+(Get your monies worth). An app that helps you keep track of how much you spend on things and how much time you spend with said things. Video games. Board games. Books. Etc. Maybe space measuring as well. Value of things. This might be in the minimalist side of things. The user could have an area where they mark they feel like they've gotten their monies worth and no longer feel the need to keep things. 
+
+6. Concrete Adventures
+Chart different adventures you could go to within a certain mile radius. Would use google maps api or something. Mainly for people who live in a city or large town. 
