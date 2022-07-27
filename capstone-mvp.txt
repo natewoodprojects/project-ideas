@@ -1,6 +1,6 @@
 Gechur.
 
-Use your stuff. Remove your stuff. And how to get your money's worth. 
+Use your stuff. Remove your stuff. Get your money's worth. 
 
 (Difficulty: Low)
 Pitch/Idea: 
@@ -19,6 +19,8 @@ MVP:
 Future Features:
     Friends feature where people can see what other people are getting rid of and ask for them. 
     Friends can give recommendations for items they've used
+
+
 
 
 Concrete Quests (Difficulty: High)
